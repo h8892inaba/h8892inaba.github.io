@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  SI2020 「NEDO特別講座：ロボット共通プラットフォーム講習会」
-date:   2021-12-18 15:01:35 +0300
-image:  nedo-image.jpg
+date:   2020-12-18 15:01:35 +0300
+image:  nedo-eye.jpg
 tags:   Style
 ---
 ### SI2020 「NEDO特別講座：ロボット共通プラットフォーム講習会」
