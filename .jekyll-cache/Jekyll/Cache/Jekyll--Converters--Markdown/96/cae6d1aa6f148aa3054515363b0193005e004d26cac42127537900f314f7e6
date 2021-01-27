@@ -1,0 +1,149 @@
+I"�<h2 id="成果物">成果物</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>事業者名</td>
+      <td>github</td>
+      <td>Webサイト</td>
+    </tr>
+    <tr>
+      <td>川崎重工株式会社</td>
+      <td><a href="https://github.com/Kawasaki-Robotics"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>カワダロボティクス株式会社</td>
+      <td><a href="http://wiki.ros.org/rtmros_nextage"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>THK株式会社</td>
+      <td><a href="https://github.com/seed-solutions"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>名城大学</td>
+      <td><a href="https://github.com/rsdlab"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>株式会社東芝</td>
+      <td><a href="https://github.com/AMR-IF"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>富士ソフト株式会社</td>
+      <td><a href="https://github.com/FUJISOFT-Robotics"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>YOODS</td>
+      <td><a href="https://github.com/YOODS"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>産業技術総合研究所研</td>
+      <td><a href="https://github.com/OpenRTM&lt;"><img src="figs/github.png" width="24" /></a></td>
+      <td><a href="https://openrtm.org"><img src="figs/webpage.png" width="24" /></a></td>
+    </tr>
+    <tr>
+      <td>東京大学</td>
+      <td><a href="https://github.com/jsk-ros-pkg"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>TORK （東京オープンソースロボティクス協会）</td>
+      <td><a href="https://github.com/tork-a"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>eSOL株式会社</td>
+      <td><a href="https://github.com/esol-community"><img src="figs/github.png" width="24" /></a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="川崎重工">川崎重工</h3>
+
+<ul>
+  <li>githubサイト: <a href="https://github.com/Kawasaki-Robotics">https://github.com/Kawasaki-Robotics</a></li>
+</ul>
+
+<p>川崎重工githubリポジトリでは、川崎重工の双腕スカラロボット duAro のほか、いくつかの産業用マニピュレータ用のROS用コントローラノードとモデルファイルが公開されています。</p>
+
+<h3 id="カワダロボティクス">カワダロボティクス</h3>
+
+<ul>
+  <li>githubサイト: <a href="http://wiki.ros.org/rtmros_nextage">http://wiki.ros.org/rtmros_nextage</a></li>
+  <li>ROS wikiページ: <a href="http://wiki.ros.org/rtmros_nextage">http://wiki.ros.org/rtmros_nextage</a></li>
+</ul>
+
+<p>カワダロボティクスのNEXTAGE Openは、ROSおよびRTMで動作する双腕型多能工ロボットです。以下のリポジトリおよびwikiにソースコードとマニュアルがあります。</p>
+
+<h3 id="thk">THK</h3>
+
+<ul>
+  <li>github サイト: <a href="https://github.com/seed-solutions">https://github.com/seed-solutions</a></li>
+</ul>
+
+<p>THKのgithubbサイトでは、THKが販売するヒューマノイドロボット Seed-NoidのROS用コントローラノードとモデルファイルが公開されています。</p>
+
+<h3 id="名城大学">名城大学</h3>
+
+<ul>
+  <li>githubサイト: <a href="https://github.com/rsdlab">https://github.com/rsdlab</a></li>
+</ul>
+
+<h3 id="東芝">東芝</h3>
+
+<ul>
+  <li>githubサイト：<a href="https://github.com/AMR-IF">https://github.com/AMR-IF</a></li>
+  <li>プレスリリース: <a href="https://www.nedo.go.jp/news/press/AA5_101303.html">https://www.nedo.go.jp/news/press/AA5_101303.html</a></li>
+</ul>
+
+<p>上記githubリポジトリでは、NEDO市場化プロジェクトおよびRRIで策定された自律型移動ロボット向けインターフェースの仕様および、東芝が開発したサンプルソフトウェアを公開しています。</p>
+
+<h3 id="富士ソフト日本電産">富士ソフト・日本電産</h3>
+
+<ul>
+  <li>githubサイト: <a href="https://github.com/FUJISOFT-Robotics">https://github.com/FUJISOFT-Robotics</a></li>
+</ul>
+
+<h3 id="yoods">YOODS</h3>
+
+<ul>
+  <li>githubサイト:<a href="https://github.com/YOODS">https://github.com/YOODS</a></li>
+</ul>
+
+<h3 id="産総研">産総研</h3>
+
+<ul>
+  <li>githubサイト：<a href="https://github.com/OpenRTM">https://github.com/OpenRTM</a></li>
+  <li>OpenRTM Webサイト: <a href="https://openrtm.org">OpenRTM-aist official website</a></li>
+</ul>
+
+<p>産総研のgithubリポジトリでは、RTミドルウェア OpenRTM-aist のソースコード、OpenRTM WebサイトではUbuntu/Windows用パッケージ・インストーラが公開されています。</p>
+
+<h3 id="東京大学">東京大学</h3>
+
+<ul>
+  <li>github サイト: <a href="https://github.com/jsk-ros-pkg">https://github.com/jsk-ros-pkg</a></li>
+</ul>
+
+<h3 id="tork">TORK</h3>
+
+<ul>
+  <li>githubサイト: <a href="https://github.com/tork-a">https://github.com/tork-a</a></li>
+</ul>
+
+<h3 id="esol">eSOL</h3>
+
+<ul>
+  <li>githubサイト: <a href="https://github.com/esol-community">https://github.com/esol-community</a></li>
+</ul>
+
+<p>eSOLのgithubサイトでは、eSOLが販売する組み込みリアルタイムOS “eMCOS” 上でROS/ROS2を動作させるためのツールチェインが提供されています。</p>
+
+:ET

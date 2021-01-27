@@ -1,7 +1,7 @@
 ---
 layout: page
 #title: Final Presentation
-permalink: /final_presentation/
+#permalink: /final_presentation/
 #image: 01.jpg
 ---
 
