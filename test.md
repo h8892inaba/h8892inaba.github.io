@@ -1,7 +1,7 @@
 ---
 layout: page
-#title: Test News
-#permalink: /test_news/
+title: Test News
+permalink: /test_news/
 #image: 01.jpg
 ---
 
