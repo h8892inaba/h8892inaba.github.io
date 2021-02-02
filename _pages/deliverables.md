@@ -8,17 +8,17 @@ permalink: /deliverables/
 ## 成果物
 
 | 事業者名 | github | Webサイト |
-| 川崎重工株式会社 |[<img src="figs/github.png" width="24"/>](https://github.com/Kawasaki-Robotics) | |
-| カワダロボティクス株式会社 | [<img src="figs/github.png" width="24"/>](http://wiki.ros.org/rtmros_nextage) | |
-| THK株式会社 | [<img src="figs/github.png" width="24"/>](https://github.com/seed-solutions) | |
-| 名城大学 | [<img src="figs/github.png" width="24"/>](https://github.com/rsdlab) | |
-| 株式会社東芝 | [<img src="figs/github.png" width="24"/>](https://github.com/AMR-IF) | |
-| 富士ソフト株式会社 | [<img src="figs/github.png" width="24"/>](https://github.com/FUJISOFT-Robotics) | |
-| YOODS | [<img src="figs/github.png" width="24"/>](https://github.com/YOODS) | |
-| 産業技術総合研究所研 | [<img src="figs/github.png" width="24"/>](https://github.com/OpenRTM<) | [<img src="figs/webpage.png" width="24"/>](https://openrtm.org) |
-| 東京大学 | [<img src="figs/github.png" width="24"/>](https://github.com/jsk-ros-pkg) | |
-| TORK （東京オープンソースロボティクス協会） | [<img src="figs/github.png" width="24"/>](https://github.com/tork-a) | |
-| eSOL株式会社 | [<img src="figs/github.png" width="24"/>](https://github.com/esol-community) | |
+| 川崎重工株式会社 |[<img src="/images/github.png" width="24"/>](https://github.com/Kawasaki-Robotics) | |
+| カワダロボティクス株式会社 | [<img src="/images/github.png" width="24"/>](http://wiki.ros.org/rtmros_nextage) | |
+| THK株式会社 | [<img src="/images/github.png" width="24"/>](https://github.com/seed-solutions) | |
+| 名城大学 | [<img src="/images/github.png" width="24"/>](https://github.com/rsdlab) | |
+| 株式会社東芝 | [<img src="/images/github.png" width="24"/>](https://github.com/AMR-IF) | |
+| 富士ソフト株式会社 | [<img src="/images/github.png" width="24"/>](https://github.com/FUJISOFT-Robotics) | |
+| YOODS | [<img src="/images/github.png" width="24"/>](https://github.com/YOODS) | |
+| 産業技術総合研究所研 | [<img src="/images/github.png" width="24"/>](https://github.com/OpenRTM<) | [<img src="/images/webpage.png" width="24"/>](https://openrtm.org) |
+| 東京大学 | [<img src="/images/github.png" width="24"/>](https://github.com/jsk-ros-pkg) | |
+| TORK （東京オープンソースロボティクス協会） | [<img src="/images/github.png" width="24"/>](https://github.com/tork-a) | |
+| eSOL株式会社 | [<img src="/images/github.png" width="24"/>](https://github.com/esol-community) | |
 
 ### 川崎重工
 
