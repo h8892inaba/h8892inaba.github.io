@@ -20,7 +20,6 @@ This project aims to promote the introduction of the robot into areas that are e
 For this purpose, the robot hardware and software are platformized by dividing into the base-robot as a common part and an optional part that corresponds to the target work for each user.
 
 <img src="/images/project-overview.png"/>
-<img src="/images/01.png"/>
 
 ### ハンドブック
 
