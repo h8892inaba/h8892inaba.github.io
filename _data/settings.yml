@@ -43,6 +43,11 @@ author:
   bio4-3: Project Details
   bio4-3-url: project_overview
 
+
+images: 
+  - image: /images/slider/01.jpg
+  - image: /images/slider/02.jpg
+
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/ # Add your Twitter handle
