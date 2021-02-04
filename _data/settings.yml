@@ -44,9 +44,11 @@ author:
   bio4-3-url: project_overview
 
 
-images: 
-  - image: /images/slider/01.jpg
-  - image: /images/slider/02.jpg
+carousel:
+  images: 
+    - /slider/01.jpg
+    - /slider/02.jpg
+    - /slider/03.jpg
 
 #-------------------------------
 # Contact links
