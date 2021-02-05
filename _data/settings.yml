@@ -45,6 +45,10 @@ author:
 
 
 carousel:
+  msg:
+    - hogehoge1
+    - fooooooo2
+    - feeeeeee3
   images: 
     - /slider/01.jpg
     - /slider/02.jpg
