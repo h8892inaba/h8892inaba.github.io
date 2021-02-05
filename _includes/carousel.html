@@ -28,7 +28,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in site.data.settings.carousel.images %}
-                <li class="carousel__slide" style="background-image: url('{{site.baseurl}}/images/{{ item }}');"></li>
+                <li class="carousel__slide" style="background-image: url('{{site.baseurl}}/images/{{ item }}');" href="{{site.baseurl}}/{{ site.data.settings.author.bio4-3-url }}"></li>
             {% endfor %} 
           </ul>
         </div>
