@@ -2,7 +2,7 @@
 layout: post
 title:  "NEDOプレスリリース:自律型移動ロボット向けインターフェースの仕様を策定し、サンプルソフトウェアを公開"
 date:   2020-03-30 00:00:00
-#image:  10.jpg
+image:  news.png
 tags:   Nedo
 ---
 

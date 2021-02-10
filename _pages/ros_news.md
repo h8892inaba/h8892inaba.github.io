@@ -2,7 +2,7 @@
 layout: page
 #title: Ros News
 #permalink: /ros_news/
-#image: 01.jpg
+image: rosnews.png
 ---
 
 # ROS Watch

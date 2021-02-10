@@ -2,7 +2,7 @@
 layout: post
 title:  "国際ロボット展公開シンポジウム を開催しました。"
 date:   2019-01-29 00:00:00
-#image:  10.jpg
+image:  news.png
 tags:   Nedo
 ---
 	

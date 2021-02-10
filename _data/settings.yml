@@ -9,7 +9,7 @@ description: NEDO ROBO-MARC (Robot Platformization) Project Web page
 # Author Settings
 author:
   name: NEDO ROBO-MARC
-  image: 01.jpg
+  image: nedo-06.png
   #say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
   #bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
   say-hello: NEDO特別講座
@@ -21,6 +21,7 @@ author:
 
 
   say-hello2: 【ご案内】 キックオフシンポジウム開催
+  image-02: sympo2021.png
   bio2-1: <font color="red">※[注意]アクセスしているURLが github.com/robo-marc の場合、ページが正しく表示されません。<a href="https://robo-marc.github.io" >【こちら】</a>をクリックしてください。</font>
   bio2-2: 2021年1月29日（金）に<a href="https://www.nedo.go.jp/news/press/AA5_101400.html" > NEDO特別講座キックオフシンポジウム </a> をオンデマンドビデオ放映にて開催致します。ご参加を希望される方は以下のフォームからお申し込みください。
   bio2-3: <a href="https://forms.gle/xeGH2TZKeJckbcT68" alt="申し込みフォーム"><img src="https://user-images.githubusercontent.com/11814060/104677986-d09c9680-572d-11eb-8223-96e23cf8d541.png" width="200"></a>
@@ -32,12 +33,14 @@ author:
 
 
   say-hello3: ROS Watch
+  image-03: rosnews.png
   bio3-1: ROSおよびロボットミドルウェア関係のNEWSを発信しています。
   bio3-2: ROS関係のNEWSはこちら
   bio3-2-url: ros_news
 
 
   say-hello4: Overview of the Project
+  image-04: oop.png
   bio4-1: NEDO ロボット活用型市場化適用技術開発プロジェクト (市場化プロジェクト, robbo-marcプロジェクト) は2017年度から2019年度まで、NEDOの委託事業として行われたロボット研究開発プロジェクトです。 2020年度からは、プロジェクトの成果物であるソフトウエアを維持すると共に、広く普及するために”NEDO講座”プロジェクトが３年間実施されます。
   bio4-2: NEDO Technology Development Project for Robot Commercialization Applications (Shijyouka Project, robo-marc Project) is a research and development project for robot conducted as a consignment project from FY2017 to FY2019 by NEDO. From FY2020, the “NEDO course (NEDO Kouza)” project will be held for three years in order to maintain the software that is the product of the project and spread it widely.
   bio4-3: Project Details

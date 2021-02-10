@@ -2,7 +2,7 @@
 layout: page
 title: Project Overview
 permalink: /project_overview/
-#image: 01.jpg
+image: oop.png
 ---
 
 ## プロジェクト概要
