@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "irex-symposium"
+date:   22019-12-20 00:00:005
+image:  news.png
+tags:   Nedo
+---
+	
+irex-symposium
+ZZ
+[NEDOプレスリリースロボット用ミドルウェア技術の普及・発展を推進する人材育成講座を開講](https://www.nedo.go.jp/news/press/AA5_101400.html)
+
