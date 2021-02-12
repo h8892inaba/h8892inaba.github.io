@@ -6,7 +6,4 @@ image:  news.png
 tags:   Nedo
 ---
 
-[国際ロボット展公開シンポジウム](https://robo-marc.github.io/irex_symposium) を開催しました。
-hooooo
-hooooo
-hooooo
+2019年12月20日に[国際ロボット展公開シンポジウム](https://robo-marc.github.io/irex_symposium) を開催しました。

@@ -6,6 +6,4 @@ image:  news.png
 tags:   Nedo
 ---
 
-rri_symposium
-[RRI公開シンポジウム](https://robo-marc.github.io/rri_symposium)を開催しました。
-hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+2019年8月28日に[RRI公開シンポジウム](https://robo-marc.github.io/rri_symposium)を開催しました。
