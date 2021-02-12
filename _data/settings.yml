@@ -1,0 +1,87 @@
+#-------------------------------
+# General Site Settings
+title: NEDO ROBO-MARC
+logo: logo.png # You can add own logo.
+description: NEDO ROBO-MARC (Robot Platformization) Project Web page
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: NEDO ROBO-MARC
+  image: nedo-06.png
+  #say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
+  #bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: NEDO特別講座
+  bio1-1: NEDO特別講座 (2020-2022年度) および、そのコアプロジェクト (NEDO ロボット活用型市場化適用技術開発プロジェクト (2017-2019年度) ) のページです。
+  bio1-2: This is Web page to publish R&D result by “NEDO’s Technology Development Project for Robot Commercialization Applications” (FY2017-2019) and “NEDO Course (NEDO Kouza)”.
+
+
+
+
+
+  say-hello2: 【ご案内】 キックオフシンポジウム開催
+  image-02: sympo2021.png
+  bio2-1: <font color="red">※[注意]アクセスしているURLが github.com/robo-marc の場合、ページが正しく表示されません。<a href="https://robo-marc.github.io" >【こちら】</a>をクリックしてください。</font>
+  bio2-2: 2021年1月29日（金）に<a href="https://www.nedo.go.jp/news/press/AA5_101400.html" > NEDO特別講座キックオフシンポジウム </a> をオンデマンドビデオ放映にて開催致します。ご参加を希望される方は以下のフォームからお申し込みください。
+  bio2-3: <a href="https://forms.gle/xeGH2TZKeJckbcT68" alt="申し込みフォーム"><img src="https://user-images.githubusercontent.com/11814060/104677986-d09c9680-572d-11eb-8223-96e23cf8d541.png" width="200"></a>
+  bio2-4: NEDO特別講座キックオフシンポジウムのご案内
+  bio2-4-url: symposium202101
+  bio2-5: <a href="https://www.nedo.go.jp/news/press/AA5_101400.html" > NEDOプレスリリース[ロボット用ミドルウェア技術の普及・発展を推進する人材育成講座を開講] </a>
+
+  bio2-6: ※[注意]アクセスしているURLが github.com/robo-marc の場合、ページが正しく表示されません。<a href="https://robo-marc.github.io" >【こちら】</a>をクリックしてください。
+
+
+  say-hello3: ROS Watch
+  image-03: rosnews.png
+  bio3-1: ROSおよびロボットミドルウェア関係のNEWSを発信しています。
+  bio3-2: ROS関係のNEWSはこちら
+  bio3-2-url: ros_news
+
+
+  say-hello4: Overview of the Project
+  image-04: oop.png
+  bio4-1: NEDO ロボット活用型市場化適用技術開発プロジェクト (市場化プロジェクト, robbo-marcプロジェクト) は2017年度から2019年度まで、NEDOの委託事業として行われたロボット研究開発プロジェクトです。 2020年度からは、プロジェクトの成果物であるソフトウエアを維持すると共に、広く普及するために”NEDO講座”プロジェクトが３年間実施されます。
+  bio4-2: NEDO Technology Development Project for Robot Commercialization Applications (Shijyouka Project, robo-marc Project) is a research and development project for robot conducted as a consignment project from FY2017 to FY2019 by NEDO. From FY2020, the “NEDO course (NEDO Kouza)” project will be held for three years in order to maintain the software that is the product of the project and spread it widely.
+  bio4-3: Project Details
+  bio4-3-url: project_overview
+
+
+carousel:
+  msg:
+    - hogehoge1
+    - fooooooo2
+    - feeeeeee3
+  images: 
+    - /slider/01.jpg
+    - /slider/02.jpg
+    - /slider/03.jpg
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+#disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
