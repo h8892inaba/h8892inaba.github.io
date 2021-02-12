@@ -6,6 +6,7 @@ image:  news.png
 tags:   Nedo
 ---
 
+[国際ロボット展公開シンポジウム](https://robo-marc.github.io/irex_symposium) を開催しました。
 irex-symposium
 ooooooooooooooooooooooooooooooooooooooooZZ
 ooooooooooooooooooooooooooooooooooooooooZZ
