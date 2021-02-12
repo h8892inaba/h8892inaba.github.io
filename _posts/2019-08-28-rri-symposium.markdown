@@ -8,3 +8,4 @@ tags:   Nedo
 
 rri_symposium
 [RRI公開シンポジウム](https://robo-marc.github.io/rri_symposium)を開催しました。
+hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
