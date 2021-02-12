@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "irex-symposium"
-date:   22019-12-20 00:00:005
+date:   2019-12-20 00:00:005
 image:  news.png
 tags:   Nedo
 ---
