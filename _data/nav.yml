@@ -12,7 +12,7 @@ header:
   - title: "Project Overview"
     url: "/project_overview/"
   - title: "hoge-"
-    url: "/ros_news/"
+    url: "/rosnews/"
   - title: "Team"
     url: "/team/"
   - title: "RRI"
