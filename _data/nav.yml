@@ -11,7 +11,7 @@ header:
     description: "A little story about the theme"
   - title: "Project Overview"
     url: "/project_overview/"
-  - title: "ROS News"
+  - title: "ros_news"
     url: "/ros_news/"
 
 # footer links
