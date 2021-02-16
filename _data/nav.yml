@@ -11,8 +11,12 @@ header:
     description: "A little story about the theme"
   - title: "Project Overview"
     url: "/project_overview/"
-  - title: "ros_news"
+  - title: "hoge-"
     url: "/ros_news/"
+  - title: "Team"
+    url: "/team/"
+  - title: "RRI"
+    url: "/rri_committee/"
 
 # footer links
 footer:
