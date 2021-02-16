@@ -1,7 +1,7 @@
 ---
 layout: page
 #title: Ros News
-#permalink: /ros_news/
+permalink: /rosnews/
 image: rosnews.png
 ---
 
