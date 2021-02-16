@@ -9,6 +9,10 @@ header:
   - title: "About"
     url: "/about/"
     description: "A little story about the theme"
+  - title: "Project Overview"
+    url: "/project_overview/"
+  - title: "ROS News"
+    url: "/ros_news/"
 
 # footer links
 footer:
