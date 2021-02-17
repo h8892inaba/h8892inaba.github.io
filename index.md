@@ -32,7 +32,7 @@ feature_rows:
     url: "/welcome/"
     img_path: "images/news.png"
     img_alt: "news"
-
+---
 
 ## Introduction
 
