@@ -5,22 +5,22 @@ permalink: /
 title: "Nedo Lone Wolf Theme"
 excerpt: "A simple bootstrap based jekyll theme."
 action: true
-action_btn:
-  - label: "Download"
-    fa_icon : "fas fa-download"
-    class: "btn btn-lg btn-success"
-    url: "https://github.com/manid2/lone-wolf-theme/releases/latest"
-  - dropdown: false
-  - dropdown_items:
-    - label: "v1.0.2"
-      url: "https://github.com/manid2/lone-wolf-theme/releases/tag/v1.0.2"
-      fa_icon: "fas fa-arrow-down"
+#action_btn:
+#  - label: "Download"
+#    fa_icon : "fas fa-download"
+#    class: "btn btn-lg btn-success"
+#    url: "https://github.com/manid2/lone-wolf-theme/releases/latest"
+#  - dropdown: false
+#  - dropdown_items:
+#    - label: "v1.0.2"
+#      url: "https://github.com/manid2/lone-wolf-theme/releases/tag/v1.0.2"
+#      fa_icon: "fas fa-arrow-down"
 
 feature_rows:
   - title: "Overview"
     excerpt: "Overview of the Project"
     url: "/project_overview/"
-    img_path: "images/oop.png"
+    img_path: "docs/assets/images/feature_rows/pexels-torsten-dettlaff-apps.jpg"
     img_alt: "Overview of the Project"
   - title: "NEWS"
     excerpt: "ROS News"
