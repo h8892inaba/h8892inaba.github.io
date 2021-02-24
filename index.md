@@ -23,15 +23,15 @@ feature_rows:
     img_path: "feature_rows/nedo-06.png"
     img_alt: "Overview of the Project"
   - title: "ROS NEWS"
-    excerpt: "ROSおよびロボットミドルウェア関係のNEWSを発信しています。"
+    excerpt: "ROSおよびロボットミドルウェア関係のNEWS"
     url: "/rosnews/"
     img_path: "feature_rows/rosnews.png"
     img_alt: "ROS News"
   - title: "News"
     excerpt: "Nedo Project News"
-    url: "/welcome/"
+    url: "/newslist/"
     img_path: "feature_rows/news.png"
-    img_alt: "news"
+    img_alt: "News"
 
 ---
 
@@ -40,3 +40,13 @@ feature_rows:
 NEDO特別講座 (2020-2022年度) および、そのコアプロジェクト (NEDO ロボット活用型市場化適用技術開発プロジェクト (2017-2019年度) ) のページです。
 
 This is Web page to publish R&D result by “NEDO’s Technology Development Project for Robot Commercialization Applications” (FY2017-2019) and “NEDO Course (NEDO Kouza)”.
+
+### NEDO News
+<section>
+  <ul>
+ {% for post in site.posts %}
+    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+
