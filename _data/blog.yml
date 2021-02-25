@@ -1,7 +1,7 @@
 # blog authors
 authors:
   - name: "NEDO Author"
-    headline: "Awesome blogger."
+    headline: "NEDO maintainer."
     avatar: "awesome_author.svg" # display_picture.jpg
     follow:
     - label: "GitHub"
