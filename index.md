@@ -23,7 +23,7 @@ feature_rows:
     img_path: "feature_rows/nedo-06.png"
     img_alt: "Overview of the Project"
   - title: "ROS NEWS"
-    excerpt: "ROSおよびロボットミドルウェア関係のNEWS"
+    excerpt: "ROSおよびRTM関係のNEWS"
     url: "/rosnews/"
     img_path: "feature_rows/rosnews.png"
     img_alt: "ROS News"
