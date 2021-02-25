@@ -21,7 +21,8 @@ author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
   card: summary
-logo: assets/images/lwt-logo-wolf-v2.png # PNG is SEO friendly
+#logo: assets/images/lwt-logo-wolf-v2.png # PNG is SEO friendly
+logo: assets/images/nedo-logo.png # PNG is SEO friendly
 # use below when there are social links for site
 #social:
 #  name: Mani Kumar
@@ -176,5 +177,6 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/lwt-logo-wolf-v2.png
+      #image: assets/images/lwt-logo-wolf-v2.png
+      image: assets/images/nedo-logo.png
       image_alt: Lone Wolf Theme logo version 2
