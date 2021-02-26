@@ -13,6 +13,10 @@ header:
     url: "/project_overview/"
   - title: "Team"
     url: "/team/"
+  - title: "rri-shmpo"
+    url: "/rri_symposium/"
+  - title: "styleguide"
+    url: "/styleguide/"
 
 # footer links
 footer:

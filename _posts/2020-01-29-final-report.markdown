@@ -6,7 +6,7 @@ image:  assets/images/nedo-news-s.png
 tags:   Nedo
 ---
 
-2020年1月29日に[最終成果報告会](https://robo-marc.github.io/final_report)を開催しました。
+2020年1月29日に[最終成果報告会]({{url}}/final_report)を開催しました。
                                                                          
                                                                          
                                                                          

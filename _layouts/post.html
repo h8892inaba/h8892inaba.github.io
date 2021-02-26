@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<!--
 {% if page.image %}
   {% capture page_image %}
     {{ page.image | relative_url | default: '' }}
@@ -15,6 +16,7 @@ layout: default
     {{ page.image_caption | default: '' }}
   {% endcapture %}
 {% endif %}
+-->
 
 {% assign blog_author = site.data.blog.authors[0] %}
 {% capture bl_au_avatar %}
