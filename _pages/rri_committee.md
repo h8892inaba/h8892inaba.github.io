@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: RRI Committee
+title: RRI Committee
 permalink: /rri_committee/
 #image: 01.jpg
 ---
