@@ -9,14 +9,12 @@ header:
 #  - title: "About"
 #    url: "/about/"
 #    description: "A little story about the theme"
+  - title: "Home"
+    url: "/"
   - title: "Project Overview"
     url: "/project_overview/"
   - title: "Team"
     url: "/team/"
-  - title: "rri-shmpo"
-    url: "/rri_symposium/"
-  - title: "styleguide"
-    url: "/styleguide/"
 
 # footer links
 footer:
