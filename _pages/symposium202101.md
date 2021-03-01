@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Symposium2021
-permalink: /symposium202101/
+permalink: /symposium2021/
 image: sympo2021.png
 ---
 

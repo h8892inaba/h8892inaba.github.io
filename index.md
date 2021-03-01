@@ -27,11 +27,17 @@ feature_rows:
     url: "/rosnews/"
     img_path: "feature_rows/rosnews.png"
     img_alt: "ROS News"
+  - title: "symposium2021"
+    excerpt: "Symposium 2021"
+    url: "/symposium2021/"
+    img_path: "feature_rows/sympo2021.png"
+    img_alt: "Symposium 2021"
   - title: "News"
     excerpt: "Nedo Project News"
     url: "/newslist/"
     img_path: "feature_rows/news.png"
     img_alt: "News"
+
 
 ---
 
