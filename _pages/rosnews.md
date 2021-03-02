@@ -2,7 +2,7 @@
 layout: page
 #title: Ros News
 permalink: /rosnews/
-image: rosnews.png
+#image: rosnews.png
 ---
 
 # ROS Watch

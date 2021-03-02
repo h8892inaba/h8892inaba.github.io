@@ -2,7 +2,7 @@
 layout: page
 title: Symposium2021
 permalink: /symposium2021/
-image: sympo2021.png
+#image: sympo2021.png
 ---
 
 ## NEDO特別講座 キックオフシンポジウム
