@@ -53,7 +53,7 @@ Windows用とLinux用があります。
 
 <div align="center">
 <a href="https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html">
-<img src="figs/vmware_download.png">
+<img src="{{site.baseurl}}/assets/images/si2020//vmware_download.png" width="80%">
 </a>
 </div>
 <div style="text-align: center;">クリックするとダウンロードページに飛びます</div>
@@ -65,7 +65,7 @@ Windows用とLinux用があります。
 Windowsでのインストール方法を説明します。ダウンロードしたインストー
 ラを起動すると、以下のような画面が現れてインストールが開始されます。
 
-<div align="center"><img src="figs/vmware_installler.png"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_installler.png"></div>
 
 特に注意する点はなく、指示通りに進めるとインストールは完了します。
 
@@ -94,7 +94,7 @@ Windowsの場合は、エクスプローラーでISOファイルをダウンロ�
 ルダを開きます。エクスプローラのアドレスバーに **cmd** と入力して
 Enterを押してください。
 
-<div align="center"><img src="figs/open_cmd.png" width="640" border="1"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/open_cmd.png" width="640" border="1"></div>
 
 そうすると、そのフォルダの位置でコマンドプロンプトが開きます。次に、
 以下のコマンドを入力します。
@@ -106,7 +106,7 @@ MD5 SUMを計算するのには数分程度時間がかかります。しばら�
 以下のような表示とともに、MD5 SUMが出力されます。
 
 <div align="center">
-<a href="figs/md5_cmd.png"><img src="figs/md5_cmd.png" width="640"></a>
+<a href="{{site.baseurl}}/assets/images/si2020/md5_cmd.png"><img src="{{site.baseurl}}/assets/images/si2020/md5_cmd.png" width="640"></a>
 </div>
 <div style="text-align: center;">クリックすると拡大します</div>
 
@@ -122,12 +122,12 @@ VMware Player を起動します。スタートメニューから VMware Worksta
 力すると、候補に VMware Workstation 16 Playerが現れますので、クリッ
 クして起動します。
 
-<div align="center"><img src="figs/vmware_starting_vm.png" width="640"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_starting_vm.png" width="640"></div>
 
 以下のようなVMwareの画面が出ますので、右側の **「新規仮想マシンの作成(N)」**
 をクリックして、新規の仮想マシンを作成します。
 
-<div align="center"><img src="figs/vmware_opened.png" width="495"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_opened.png" width="495"></div>
 
 新規仮想マシン作成ウィザードが表示されますので、
 
@@ -136,7 +136,7 @@ VMware Player を起動します。スタートメニューから VMware Worksta
 
 します。すると以下のような画面になるはずです。
 
-<div align="center"><img src="figs/vmware_select_iso.png" width="495"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_select_iso.png" width="495"></div>
 
 **「次に」** ボタンをクリックし、ゲストOSの種類を選択します。
 以下のように、
@@ -146,29 +146,29 @@ VMware Player を起動します。スタートメニューから VMware Worksta
 - バージョン: **"Ubuntu 64 ビット"**
 を選択します。
 
-<div align="center"><img src="figs/vmware_select_os.png" width="495"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_select_os.png" width="495"></div>
 
 **「次に」** ボタンをクリックし、仮想マシン名を付けます。マシン名は
 何でも結構ですが、ここでは、 **"NEDO講座ROSセット"**という名前にして
 おきます。
 
-<div align="center"><img src="figs/vmware_vmname.png" width="495"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_vmname.png" width="495"></div>
 
 **「次に」** ボタンをクリックすると、以下のように仮想ディスクサイズ
 を尋ねてきます。今回はLive CDイメージを利用するので、ディスクは使用
 しませんが、デフォルトのままにして次に進みます。
 
-<div align="center"><img src="figs/vmware_disksize.png" width="495"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_disksize.png" width="495"></div>
 
 **「次に」** ボタンをクリックすると、以下のように準備完了と表示され
 ますが、ここで、ハードウェアを少しカスタマイズしておきます。
 **「ハードウェアをカスタマイズ(C)...」** をクリックします。
 
-<div align="center"><img src="figs/vmware_finish.png" width="495"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_finish.png" width="495"></div>
 
 すると、以下のように仮想マシンをカスタマイズする画面が表示されます。
 
-<div align="center"><img src="figs/vmware_customize.png" width="819"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_customize.png" width="819"></div>
 
 ここで、メモリを可能であれば 4GB に増やしておきます。ホスト側 (今
 使っている)PCのメモリに余裕があれば(16GB以上)、8GBに増やしてもよいで
@@ -182,33 +182,33 @@ VMware Player を起動します。スタートメニューから VMware Worksta
 設定を保存し、新規仮想マシン作成ウィザードの完了ボタンを押すと、準備
 完了です。以下のような画面になっているはずです。
 
-<div align="center"><img src="figs/vmware_ready.png" width="642"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_ready.png" width="642"></div>
 
 仮想マシンの起動を押すと、仮想マシンが起動します。順に以下のような画
 面が表示されます。起動には多少時間がかかりますので待ちます。途中
 Vmware Toolsのインストールをうな側れますが、無視してください。(「通
 知しない」ボタンをクリック)
 
-<div align="center"><img src="figs/vmware_boot0.png" width="642"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_boot0.png" width="642"></div>
 
-<div align="center"><img src="figs/vmware_boot1.png" width="642"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_boot1.png" width="642"></div>
 
-<div align="center"><img src="figs/vmware_boot2.png" width="642"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_boot2.png" width="642"></div>
 
 最終的に以下のような画面が表示されます。
 左側のリストの下の方に **「日本語」** がありますので、
 選択し、**「Ubuntuを試す」** をクリックしてください。
 
-<div align="center"><img src="figs/vmware_boot3.png" width="642"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_boot3.png" width="642"></div>
 
 その後、**Ubuntuへようこそ** という画面が表示されますので、
 上部メニューの **Ubuntuへようこそ** から **終了** を選択します。
 
-<div align="center"><img src="figs/vmware_boot4.png" width="642"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_boot4.png" width="642"></div>
 
 以下のUbuntu のデスクトップ画面が表示されたら準備完了です。
 
-<div align="center"><img src="figs/vmware_boot5.png" width="642"></div>
+<div align="center"><img src="{{site.baseurl}}/assets/images/si2020/vmware_boot5.png" width="642"></div>
 
 
 ## その他の仮想マシンプラットフォーム
